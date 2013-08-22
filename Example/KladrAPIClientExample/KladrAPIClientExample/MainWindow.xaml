@@ -1,0 +1,9 @@
+﻿<Window x:Class="KladrAPIClientExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Test Kladr" Width="100" Height="50" Click="Button_Click"/>
+        
+    </Grid>
+</Window>
