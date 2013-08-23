@@ -30,6 +30,7 @@ kladrapi-dotnet
 
 <h2>Пример</h2>
 
+<center>
 <code>
     using KladrApiClient;
     using System;
@@ -67,3 +68,4 @@ kladrapi-dotnet
     }
 
 </code>
+</center>
